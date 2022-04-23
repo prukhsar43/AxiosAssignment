@@ -1,0 +1,40 @@
+.container{
+   width: 600px;
+   margin: auto;
+   margin-top: 70px;
+    
+}
+
+.divMain{
+   
+   
+    color: white;
+    height: 100px;
+    background-color: rgb(33, 33, 59);
+    padding: 10px;
+
+    
+
+}
+
+
+.header1{
+
+    color: white;
+    height: 100px;
+   
+    margin-top: 20px;
+    
+}
+
+
+
+.input1{
+   
+width: 200px;
+
+}
+
+.header2{
+    margin-top: 20px;
+}
